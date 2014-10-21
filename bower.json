@@ -1,6 +1,6 @@
 {
   "name": "inconsolata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/ushis/inconsolata",
   "authors": [
     "Raph Levien (cyreal.org)"
@@ -13,7 +13,7 @@
     "font-face",
     "css"
   ],
-  "license": "OFL",
+  "license": "OFL-1.1",
   "ignore": [
     "README.md",
     ".gitignore"
