@@ -1,0 +1,21 @@
+{
+  "name": "inconsolata",
+  "version": "1.0",
+  "homepage": "https://github.com/ushis/inconsolata",
+  "authors": [
+    "Raph Levien (cyreal.org)"
+  ],
+  "description": "CSS webfont kit for the Inconsolata webfont",
+  "main": "css/inconsolata.css",
+  "keywords": [
+    "inconsolata",
+    "webfont",
+    "font-face",
+    "css"
+  ],
+  "license": "OFL",
+  "ignore": [
+    "README.md",
+    ".gitignore"
+  ]
+}
